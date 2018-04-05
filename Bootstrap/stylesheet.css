@@ -1,0 +1,17 @@
+.table>tbody>tr>th {
+    border-top: 0;
+}
+
+.navbar {
+    background-color: #66ff33;
+    font-family: "monospace";
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #ffcc99;
+}
+
+.visible-lg {
+    margin-bottom: 70px;
+}
